@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/8578dfb0963d410daba7e59c309040c8/artifacts
+end_time: 1687380875330
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: 8578dfb0963d410daba7e59c309040c8
+run_name: SVM - Linear Kernel
+run_uuid: 8578dfb0963d410daba7e59c309040c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687380874897
+status: 3
+tags: []
+user_id: ihsankoo

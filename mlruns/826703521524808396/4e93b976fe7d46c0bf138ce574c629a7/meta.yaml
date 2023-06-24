@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/4e93b976fe7d46c0bf138ce574c629a7/artifacts
+end_time: 1687380872933
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: 4e93b976fe7d46c0bf138ce574c629a7
+run_name: Logistic Regression
+run_uuid: 4e93b976fe7d46c0bf138ce574c629a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687380872599
+status: 3
+tags: []
+user_id: ihsankoo

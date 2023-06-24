@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/098a94242fe6457bb39e9ecb827f5d8f/artifacts
+end_time: 1687538760305
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: 098a94242fe6457bb39e9ecb827f5d8f
+run_name: Gradient Boosting Classifier
+run_uuid: 098a94242fe6457bb39e9ecb827f5d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687538759767
+status: 3
+tags: []
+user_id: ihsankoo

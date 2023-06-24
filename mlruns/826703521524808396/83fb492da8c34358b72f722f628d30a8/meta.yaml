@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/83fb492da8c34358b72f722f628d30a8/artifacts
+end_time: 1687538770301
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: 83fb492da8c34358b72f722f628d30a8
+run_name: Linear Discriminant Analysis
+run_uuid: 83fb492da8c34358b72f722f628d30a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687538769910
+status: 3
+tags: []
+user_id: ihsankoo

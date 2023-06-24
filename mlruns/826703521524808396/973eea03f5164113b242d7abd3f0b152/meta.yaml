@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/973eea03f5164113b242d7abd3f0b152/artifacts
+end_time: 1687380874415
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: 973eea03f5164113b242d7abd3f0b152
+run_name: Naive Bayes
+run_uuid: 973eea03f5164113b242d7abd3f0b152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687380874099
+status: 3
+tags: []
+user_id: ihsankoo

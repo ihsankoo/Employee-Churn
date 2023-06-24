@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/c5d1d4f256f34633a45e0691680e6329/artifacts
+end_time: 1687380869844
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: c5d1d4f256f34633a45e0691680e6329
+run_name: K Neighbors Classifier
+run_uuid: c5d1d4f256f34633a45e0691680e6329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687380869520
+status: 3
+tags: []
+user_id: ihsankoo

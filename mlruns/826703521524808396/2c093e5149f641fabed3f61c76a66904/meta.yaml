@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ihsankoo/Desktop/Clarusway%20Butun%20data%20Science/Son%203%20hafta%20projeleri/2nd_project/mlruns/826703521524808396/2c093e5149f641fabed3f61c76a66904/artifacts
+end_time: 1687538757087
+entry_point_name: ''
+experiment_id: '826703521524808396'
+lifecycle_stage: active
+run_id: 2c093e5149f641fabed3f61c76a66904
+run_name: Light Gradient Boosting Machine
+run_uuid: 2c093e5149f641fabed3f61c76a66904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687538752436
+status: 3
+tags: []
+user_id: ihsankoo
